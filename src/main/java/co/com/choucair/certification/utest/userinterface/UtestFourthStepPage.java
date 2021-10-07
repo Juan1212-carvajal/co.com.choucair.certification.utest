@@ -3,7 +3,7 @@ package co.com.choucair.certification.utest.userinterface;
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;
 
-public class UtestFourthPage {
+public class UtestFourthStepPage {
 
     public static final Target INPUT_PASSWORD = Target.the("where do we write the user").
             located(By.xpath("//input[@id='password']"));

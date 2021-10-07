@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuite name="co.com.choucair.certification.utest.runners.RunnerTags" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="EQUIPOCARVAJAL" time="0.0">
   <properties/>
-  <system-out><![CDATA[REGISTER BASE STEP LISTENER net.thucydides.core.steps.BaseStepListener@a033ae6
+  <system-out><![CDATA[REGISTER BASE STEP LISTENER net.thucydides.core.steps.BaseStepListener@247bec0a
 
 ?[31mFailed scenarios:?[0m
-?[31msrc/test/resources/features/utest.feature:7 ?[0m# search for automation on the utest page
+?[31msrc/test/resources/features/utest.feature:17 ?[0m# search for automation on the utest page
 
 1 Scenarios (?[31m1 failed?[0m)
 3 Steps (?[31m1 failed?[0m, ?[32m2 passed?[0m)
-0m56,824s
+0m49,243s
 
 cucumber.runtime.CucumberException: Arity mismatch: Step Definition 'co.com.choucair.certification.utest.stepdefinitions.UtestStepDefinitions.VerifyThatThRegistrationHasBeenCorrectly(String) in file:/C:/Users/Felipe/IdeaProjects/co.com.choucair.certification.utest/build/classes/java/test/' with pattern [^verify that the user registration is correct$] is declared with 1 parameters. However, the gherkin step has 0 arguments []. 
 Step text: verify that the user registration is correct
@@ -99,6 +99,7 @@ Step text: verify that the user registration is correct
 
 TEST STARTED: search for automation on the utest page
 -------------------------------------------------------------------(utest;search-for-automation-on-the-utest-page)
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@29f0daff
 [pool-2-thread-1] INFO net.thucydides.core.requirements.PackageRequirementsTagProvider - Loading requirements from package requirements at: net.thucydides.showcase.cucumber.junit
 ]]></system-err>
 </testsuite>

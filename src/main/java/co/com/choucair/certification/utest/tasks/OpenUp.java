@@ -2,7 +2,6 @@ package co.com.choucair.certification.utest.tasks;
 
 import co.com.choucair.certification.utest.userinterface.UtestPage;
 import net.serenitybdd.screenplay.Actor;
-import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.Tasks;
 import net.serenitybdd.screenplay.actions.Open;
