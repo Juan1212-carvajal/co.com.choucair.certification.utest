@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78375cc4-7a08-4c25-8133-96f7d25b500b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/StepFourth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/StepFourth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/StepSecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/StepSecond.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/StepThird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/StepThird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/VerifyCompleted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/VerifyCompleted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/stepdefinitions/UtestStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/stepdefinitions/UtestStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource1887736609066983260.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource2386025271676884989.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource2764573981444166440.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource3392412826164015461.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource5816723810362693360.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource7210081172215741435.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource738948201271893037.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource829556029977768348.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource845475931257120801.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource8700494510495710594.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource8729042005239340995.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource9193259887180928157.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource9201083816180614880.html.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
