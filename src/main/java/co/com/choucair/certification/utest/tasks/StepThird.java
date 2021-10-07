@@ -23,7 +23,7 @@ public class StepThird implements Task {
                 Thread.sleep(1000);
                 actor.attemptsTo(Click.on(NEXT_BUTTON));
             }
-        }catch(Exception e) {
+        } catch (Exception e) {
             System.out.println(e);
         }
 

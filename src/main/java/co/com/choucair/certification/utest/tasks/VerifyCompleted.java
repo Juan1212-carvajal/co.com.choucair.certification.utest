@@ -6,7 +6,7 @@ import net.serenitybdd.screenplay.questions.Text;
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;
 
-public class VerifyCompleted implements Question <Boolean> {
+public class VerifyCompleted implements Question<Boolean> {
     private String question;
 
     public VerifyCompleted(String question) {
@@ -17,8 +17,9 @@ public class VerifyCompleted implements Question <Boolean> {
         return new VerifyCompleted(question);
     }
 
-    public static final Target COMPLETE_PAGE_REGISTRATION= Target.the("where do we write the password").
+    public static final Target COMPLETE_PAGE_REGISTRATION = Target.the("where do we write the password").
             located(By.xpath("//div[@class='image-box-header']//h1"));
+
     @Override
     public Boolean answeredBy(Actor actor) {
         boolean result;

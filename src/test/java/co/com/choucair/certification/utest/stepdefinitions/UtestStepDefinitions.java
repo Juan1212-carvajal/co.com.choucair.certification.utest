@@ -19,7 +19,7 @@ public class UtestStepDefinitions {
 
     @Given("^click register$")
     public void JuanSeeksToRegisterOnTheUtestWebSite() {
-        OnStage.theActorCalled("Juan").wasAbleTo(OpenUp.thePage(),(TopPage.ThePage()));
+        OnStage.theActorCalled("Juan").wasAbleTo(OpenUp.thePage(), (TopPage.ThePage()));
     }
 
     @When("^record of each steps$")

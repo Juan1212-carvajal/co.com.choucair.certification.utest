@@ -27,11 +27,9 @@ public class StepFourth implements Task {
                         Click.on(UtestFourthPage.COMPLETE_PAGE_BUTTON)
                 );
             }
-        }catch(Exception e) {
+        } catch (Exception e) {
             System.out.println(e);
         }
-
-
 
 
     }
