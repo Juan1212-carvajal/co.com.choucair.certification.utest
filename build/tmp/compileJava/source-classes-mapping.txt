@@ -1,0 +1,20 @@
+co/com/choucair/certification/utest/tasks/OpenUp.java
+ co.com.choucair.certification.utest.tasks.OpenUp
+co/com/choucair/certification/utest/userinterface/UtestPage.java
+ co.com.choucair.certification.utest.userinterface.UtestPage
+co/com/choucair/certification/utest/tasks/TopPage.java
+ co.com.choucair.certification.utest.tasks.TopPage
+co/com/choucair/certification/utest/tasks/StepFourth.java
+ co.com.choucair.certification.utest.tasks.StepFourth
+co/com/choucair/certification/utest/userinterface/UtestFirstStepPage.java
+ co.com.choucair.certification.utest.userinterface.UtestFirstStepPage
+co/com/choucair/certification/utest/tasks/StepThird.java
+ co.com.choucair.certification.utest.tasks.StepThird
+co/com/choucair/certification/utest/tasks/StepSecond.java
+ co.com.choucair.certification.utest.tasks.StepSecond
+co/com/choucair/certification/utest/userinterface/UtestFourthPage.java
+ co.com.choucair.certification.utest.userinterface.UtestFourthPage
+co/com/choucair/certification/utest/tasks/VerifyCompleted.java
+ co.com.choucair.certification.utest.tasks.VerifyCompleted
+co/com/choucair/certification/utest/tasks/StepFirts.java
+ co.com.choucair.certification.utest.tasks.StepFirts
